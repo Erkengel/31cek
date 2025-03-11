@@ -8,7 +8,7 @@ Erkengel.com Alternatif adresler.
 
 Turkleak：https://turkleak.com VPN Gerektirir.
 
-Cumearly: cumearly.com direkt olarak turkleak.com'a yönlendirir ve VPN'e İhtiyacınız vardır.
+Cumearly: cumearly.com direkt olarak turkleak'e yönlendirir.
 #
 
 # Sosyal Medya Adreslerimiz:
