@@ -6,7 +6,7 @@ Erkengel.com Alternatif adresler.
 -
 31cek: İhtiyacınız olan her şey burda :) https://31cek.xyz/
 
-Turkleak：https://turkleak.com VPN Gerektirir.
+Turkleak：https://turkleak.xyz VPN Gerektirir.
 
 Cumearly: cumearly.com direkt olarak turkleak'e yönlendirir.
 #
